@@ -1,0 +1,10 @@
+﻿mean: page 46 Understanding the order of Connect middleware
+
+react: page 31 Create Your First React Component:
+Navigate to the ~/snapterest/ directory and run Gulp's default task:
+gulp
+You will see the following output:
+Starting 'default'...
+Finished 'default' after 1.73 s
+
+fixed gulp error JSX from https://github.com/fedosejev/react-essentials/issues/40
