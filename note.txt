@@ -1,6 +1,6 @@
 ﻿mean: page 46 Understanding the order of Connect middleware
 
-react: page 31 Create Your First React Component:
+react: page 45 Make Your React Components Reactive:
 Navigate to the ~/snapterest/ directory and run Gulp's default task:
 gulp
 You will see the following output:
