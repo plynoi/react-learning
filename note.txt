@@ -1,6 +1,5 @@
-﻿mean: page 46 Understanding the order of Connect middleware
-
-react: page 45 Make Your React Components Reactive:
+﻿react: page 53 As you can see, it defines the layout of our web page using the Bootstrap
+framework::
 Navigate to the ~/snapterest/ directory and run Gulp's default task:
 gulp
 You will see the following output:
