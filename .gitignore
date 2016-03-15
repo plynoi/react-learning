@@ -1,1 +1,4 @@
 twitter_keys.txt
+node_modules/
+snapkite-engine/node_modules/
+snapterest/node_modules/
